@@ -1,6 +1,6 @@
 💫 **About Me:**
 - 👋 Hi there! I’m Jess, a Management Information Systems student with a passion for networking and IT.
-- 🚀 I recently set up a home lab using Cisco Packet Tracer to deepen my networking skills.
+- 🚀 At the moment, I’m building a home lab with Cisco Packet Tracer to improve my networking skills.
 - 🌱 I’m also currently working toward my CCNA and CompTIA Security+ certifications!
 
 🌍 **My Tech Stack:** 
