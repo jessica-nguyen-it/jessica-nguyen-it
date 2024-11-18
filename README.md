@@ -6,8 +6,8 @@
 
 <!--
 💻 **Tech Stack:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+<img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/python.png?raw=true" width="18" height="18" />
+<img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/python.png?raw=true" width="18" height="18" />
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
