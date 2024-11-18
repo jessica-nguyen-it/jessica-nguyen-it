@@ -1,16 +1,7 @@
 💫 **About Me:**
-- 👋 Hi, I’m @jessica-nguyen-dev
-- 👀 I’m interested in bodybuilding and soft rock guitar!
-- 🌱 I’m currently working on my CCNA & CompTIA Security+ certifications!
-- 📫 Reach me by email: jessica.u.nguyen@sjsu.edu
+- 👋 Hi there! I’m Jess, a Management Information Systems student with a passion for networking and IT.
+- 🚀 I recently set up a home lab using Cisco Packet Tracer to deepen my networking skills.
+- 🌱 I’m also currently working toward my CCNA and CompTIA Security+ certifications!
 
-<!--
-💻 **Tech Stack:**
-<img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/python.png?raw=true" width="18" height="18" />
-<img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/python.png?raw=true" width="18" height="18" />
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
--->
+💻 **My Tech Stack:** 
+- Packet Tracer <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/Cisco-Packet-Tracer-098765.png?raw=true" width="18" height="18" /> , Powershell <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/PowerShell_5.0_icon.png?raw=true" width="18" height="18" /> , Bash <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/Bash_Logo_Colored.svg.png?raw=true" width="18" height="18" /> , Git <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/social.png?raw=true" width="18" height="18" /> , Python <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/python.png?raw=true" width="18" height="18" /> , C++ <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/13841574.png?raw=true" width="18" height="18" /> , MySQL <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/programing.png?raw=true" width="18" height="18" /> , Oracle SQL <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/Font-Oracle-Logo.png?raw=true" width="35" height="15" /> , HTML <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/html-5.png?raw=true" width="18" height="15" /> , Visual Basic <img src="https://github.com/jessica-nguyen-dev/jessica-nguyen-dev/blob/main/images/visual-basic.png?raw=true" width="18" height="15" /> .
